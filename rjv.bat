@@ -1,4 +1,5 @@
 @echo off
+runas /user:Administrator
 :a
 color 4
 title R.I.P
